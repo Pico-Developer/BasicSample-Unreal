@@ -19,3 +19,7 @@
 2. After unzipping the SDK file (Make sure it is the version you want to use), put the Plugins folder into your sample demo project directory.
 3. Double click the .uproject file which is under your sample demo project directory.Then choose the engine version that matches your Plugins.Finally, click OK.
 4. Now you can use the sample project.About packaging and other details, please refer to [PICO Developer Documentation](https://developer-global.pico-interactive.com/document/unreal) > Quickstart > Quickstart with demo 
+
+
+## Licenses
+This project is released under the [MIT License](https://github.com/Pico-Developer/Getstarted-Unity/blob/main/License).
