@@ -1,5 +1,4 @@
 # BasicSample-Unreal
-## XR SDK Samples
 - For detailed steps, please refer to [PICO Developer Documentation](https://developer-global.pico-interactive.com/document/unreal) > Quickstart > Quickstart with demo 
 - For SDK access,please refer to [Pico Unreal Integration SDK](https://developer.pico-interactive.com/).
 
